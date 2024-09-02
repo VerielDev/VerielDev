@@ -1,7 +1,7 @@
 
 # Hola, mi nombre es Víctor Manuel Ordiales García. 
 
-!Hola! Soy desarrollador Fullstack con más de dos años de experiencia y graduado en física. Mi objetivo es combinar mi sólido conocimiento en física con mis habilidades de desarrollo para crear soluciones tecnológicas innovadoras.
+!Hola! Soy desarrollador Fullstack con más de tres años de experiencia y graduado en física. Mi objetivo es combinar mi sólido conocimiento en física con mis habilidades de desarrollo para crear soluciones tecnológicas innovadoras.
 
 ## Sobre Mi
 
@@ -21,12 +21,14 @@
 * React JS & Next JS
 * OWCS
 * Node.JS
+* Nest.JS
+* Astro.JS
 
 y algunas más que no alcanzo a recordar.
 
 ## Contacto
 
 
-Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/víctor-manuel-ordiales-garcía-777196206/) y [Web Personal](https://samuraior.dev/) para conectar conmigo o seguir mis actulizaciones. 
+Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/v%C3%ADctor-manuel-ordiales-garc%C3%ADa/) y [Web Personal](https://01-portfolio-samuraidevord.vercel.app/) para conectar conmigo o seguir mis actulizaciones. 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante!
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones.
